@@ -12,6 +12,7 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 
 * [RETRO](http://www.spoj.com/problems/RETRO/) (one of my favourites :D)
 * [EKO](http://www.spoj.com/problems/EKO/en/)
+* [AGGRCOW](http://www.spoj.com/problems/AGGRCOW/)
 
 ## Number Theory
 
@@ -31,3 +32,9 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 
 * [IAPCR2F](http://www.spoj.com/problems/IAPCR2F/) (good DSU problem)
 * [RTREE](http://www.spoj.com/problems/RTREE/) (finding diameter in tree using dynamic programming)
+
+## Sorting
+
+* [PAIRS1](http://www.spoj.com/problems/PAIRS1/) (sorting + binary search)
+* [SLEXSORT](http://www.spoj.com/problems/SLEXSORT/)
+
