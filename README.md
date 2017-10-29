@@ -21,6 +21,9 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 
 * [ADATAXES](http://www.spoj.com/problems/ADATAXES/)
 * [ADARAIN](http://www.spoj.com/problems/ADARAIN/)
+* [SALMAN](http://www.spoj.com/problems/SALMAN/)
+* [TEMPLEQ](http://www.spoj.com/problems/TEMPLEQ/)
+* [SEQPAR](http://www.spoj.com/problems/SEQPAR/) (binary search in segment tree)
 
 ## Graph Theory
 
