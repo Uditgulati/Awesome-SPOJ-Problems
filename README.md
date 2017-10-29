@@ -6,6 +6,7 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 
 * [MARTIAN](http://www.spoj.com/problems/MARTIAN/) (for beginners)
 * [CLSLDR](http://www.spoj.com/problems/CLSLDR/) (nice concept!)
+* [SOCOLA](http://www.spoj.com/problems/SOCOLA/) (medium-hard DP)
 
 ## Binary Search
 
@@ -16,6 +17,7 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 
 * [ADAGCD](http://www.spoj.com/ranks/ADAGCD/)
 * [GCDS](http://www.spoj.com/problems/GCDS/)
+* [DISTX](http://www.spoj.com/problems/DISTX/) (good number theory problem)
 
 ## Segment tree & derivatives
 
@@ -28,3 +30,4 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 ## Graph Theory
 
 * [IAPCR2F](http://www.spoj.com/problems/IAPCR2F/) (good DSU problem)
+* [RTREE](http://www.spoj.com/problems/RTREE/) (finding diameter in tree using dynamic programming)
