@@ -20,3 +20,8 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 ## Segment tree & derivatives
 
 * [ADATAXES](http://www.spoj.com/problems/ADATAXES/)
+* [ADARAIN](http://www.spoj.com/problems/ADARAIN/)
+
+## Graph Theory
+
+* [IAPCR2F](http://www.spoj.com/problems/IAPCR2F/) (good DSU problem)
