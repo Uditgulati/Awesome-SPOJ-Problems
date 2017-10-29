@@ -35,6 +35,5 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 
 ## Sorting
 
-* [PAIRS1](http://www.spoj.com/problems/PAIRS1/) (sorting + binary search)
 * [SLEXSORT](http://www.spoj.com/problems/SLEXSORT/)
 
