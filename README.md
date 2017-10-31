@@ -19,6 +19,7 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 * [ADAGCD](http://www.spoj.com/ranks/ADAGCD/)
 * [GCDS](http://www.spoj.com/problems/GCDS/)
 * [DISTX](http://www.spoj.com/problems/DISTX/) (good number theory problem)
+* [GCDEASY](http://www.spoj.com/problems/GCDEASY/)
 
 ## Segment tree & derivatives
 
