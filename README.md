@@ -8,6 +8,7 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 * [CLSLDR](http://www.spoj.com/problems/CLSLDR/) (nice concept!)
 * [SOCOLA](http://www.spoj.com/problems/SOCOLA/) (medium-hard DP)
 * [LPIS](http://www.spoj.com/problems/LPIS/)
+* [R6PL](http://www.spoj.com/problems/R6PL/)
 
 ## Binary Search
 
@@ -46,3 +47,7 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 
 ## Treap
 * [GSS6](http://www.spoj.com/problems/GSS6/) (Implicit Treap)
+
+## Miscellaneous
+
+* [IITKWPCH](www.spoj.com/problems/IITKWPCH/)
