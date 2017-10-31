@@ -48,6 +48,9 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 ## Treap
 * [GSS6](http://www.spoj.com/problems/GSS6/) (Implicit Treap)
 
+## Greedy
+* [TROOPS] (http://www.spoj.com/problems/TROOPS/) 
+
 ## Miscellaneous
 
 * [IITKWPCH](www.spoj.com/problems/IITKWPCH/)
