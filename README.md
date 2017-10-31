@@ -41,3 +41,6 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 
 ## Square Root Decomposition
 * [COT2](http://www.spoj.com/problems/COT2/) (Mo's algorithm)
+
+## Treap
+* [GSS6] (http://www.spoj.com/problems/GSS6/) (Implicit Treap)
