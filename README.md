@@ -7,6 +7,7 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 * [MARTIAN](http://www.spoj.com/problems/MARTIAN/) (for beginners)
 * [CLSLDR](http://www.spoj.com/problems/CLSLDR/) (nice concept!)
 * [SOCOLA](http://www.spoj.com/problems/SOCOLA/) (medium-hard DP)
+* [LPIS](http://www.spoj.com/problems/LPIS/)
 
 ## Binary Search
 
