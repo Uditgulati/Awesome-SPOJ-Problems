@@ -43,13 +43,24 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 * [SLEXSORT](http://www.spoj.com/problems/SLEXSORT/)
 
 ## Square Root Decomposition
+
 * [COT2](http://www.spoj.com/problems/COT2/) (Mo's algorithm)
 
 ## Treap
+
 * [GSS6](http://www.spoj.com/problems/GSS6/) (Implicit Treap)
 
 ## Greedy
+
 * [TROOPS](http://www.spoj.com/problems/TROOPS/) 
+
+## Heavy-Light Decomposition
+
+* [COT](http://www.spoj.com/problems/COT/)
+* [GSS7](http://www.spoj.com/problems/GSS7/)
+* [GOT](http://www.spoj.com/problems/GOT/)
+* [GRASSPLA](http://www.spoj.com/problems/GRASSPLA/)
+* [QTREE](http://www.spoj.com/problems/QTREE/)
 
 ## Miscellaneous
 
