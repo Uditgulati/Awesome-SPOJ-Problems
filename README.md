@@ -62,6 +62,11 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 * [GRASSPLA](http://www.spoj.com/problems/GRASSPLA/)
 * [QTREE](http://www.spoj.com/problems/QTREE/)
 
+## Centroid Decomposition
+
+* [QTREE4](http://www.spoj.com/problems/QTREE4/)
+* [QTREE5](http://www.spoj.com/problems/QTREE5/)
+
 ## Miscellaneous
 
 * [IITKWPCH](www.spoj.com/problems/IITKWPCH/)
