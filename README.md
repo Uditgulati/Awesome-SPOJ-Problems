@@ -15,6 +15,7 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 * [RETRO](http://www.spoj.com/problems/RETRO/) (one of my favourites :D)
 * [EKO](http://www.spoj.com/problems/EKO/en/)
 * [AGGRCOW](http://www.spoj.com/problems/AGGRCOW/)
+* [METEORS](http://www.spoj.com/problems/METEORS/) (parallel binary search)
 
 ## Number Theory
 
