@@ -2,10 +2,12 @@
 
 A list of some SPOJ problems which are interesting, brainstorming and helps understanding and implementing the concepts of Algos and Data Structures.
 
-## DP
+## Dynamic Programming
 
 * [MARTIAN](http://www.spoj.com/problems/MARTIAN/) (for beginners)
-* [CLSLDR](http://www.spoj.com/problems/CLSLDR/) (nice concept!)
+* [EDIST](http://www.spoj.com/problems/EDIST/) (classical edit distance problem)
+* [SUMITR](http://www.spoj.com/problems/SUMITR/) (good for beginners)
+* [CLSLDR](http://www.spoj.com/problems/CLSLDR/)
 * [SOCOLA](http://www.spoj.com/problems/SOCOLA/) (medium-hard DP)
 * [LPIS](http://www.spoj.com/problems/LPIS/)
 * [R6PL](http://www.spoj.com/problems/R6PL/)
@@ -43,9 +45,9 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 
 * [SLEXSORT](http://www.spoj.com/problems/SLEXSORT/)
 
-## Square Root Decomposition
+## Mo's Algorithm
 
-* [COT2](http://www.spoj.com/problems/COT2/) (Mo's algorithm)
+* [COT2](http://www.spoj.com/problems/COT2/) (Mo's algorithm on trees)
 
 ## Treap
 
