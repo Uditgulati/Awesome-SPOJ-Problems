@@ -9,6 +9,7 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 * [SOCOLA](http://www.spoj.com/problems/SOCOLA/) (medium-hard DP)
 * [LPIS](http://www.spoj.com/problems/LPIS/)
 * [R6PL](http://www.spoj.com/problems/R6PL/)
+* [MAXI](https://www.spoj.com/problems/MAXI/)
 
 ## Binary Search
 
