@@ -2,10 +2,12 @@
 
 A list of some SPOJ problems which are interesting, brainstorming and helps understanding and implementing the concepts of Algos and Data Structures.
 
-## DP
+## Dynamic Programming
 
 * [MARTIAN](http://www.spoj.com/problems/MARTIAN/) (for beginners)
-* [CLSLDR](http://www.spoj.com/problems/CLSLDR/) (nice concept!)
+* [EDIST](http://www.spoj.com/problems/EDIST/) (classical edit distance problem)
+* [SUMITR](http://www.spoj.com/problems/SUMITR/) (good for beginners)
+* [CLSLDR](http://www.spoj.com/problems/CLSLDR/)
 * [SOCOLA](http://www.spoj.com/problems/SOCOLA/) (medium-hard DP)
 * [LPIS](http://www.spoj.com/problems/LPIS/)
 * [R6PL](http://www.spoj.com/problems/R6PL/)
@@ -16,6 +18,7 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 * [RETRO](http://www.spoj.com/problems/RETRO/) (one of my favourites :D)
 * [EKO](http://www.spoj.com/problems/EKO/en/)
 * [AGGRCOW](http://www.spoj.com/problems/AGGRCOW/)
+* [METEORS](http://www.spoj.com/problems/METEORS/) (parallel binary search)
 
 ## Number Theory
 
@@ -43,11 +46,30 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 
 * [SLEXSORT](http://www.spoj.com/problems/SLEXSORT/)
 
-## Square Root Decomposition
-* [COT2](http://www.spoj.com/problems/COT2/) (Mo's algorithm)
+## Mo's Algorithm
+
+* [COT2](http://www.spoj.com/problems/COT2/) (Mo's algorithm on trees)
 
 ## Treap
+
 * [GSS6](http://www.spoj.com/problems/GSS6/) (Implicit Treap)
+
+## Greedy
+
+* [TROOPS](http://www.spoj.com/problems/TROOPS/) 
+
+## Heavy-Light Decomposition
+
+* [COT](http://www.spoj.com/problems/COT/)
+* [GSS7](http://www.spoj.com/problems/GSS7/)
+* [GOT](http://www.spoj.com/problems/GOT/)
+* [GRASSPLA](http://www.spoj.com/problems/GRASSPLA/)
+* [QTREE](http://www.spoj.com/problems/QTREE/)
+
+## Centroid Decomposition
+
+* [QTREE4](http://www.spoj.com/problems/QTREE4/)
+* [QTREE5](http://www.spoj.com/problems/QTREE5/)
 
 ## Miscellaneous
 
