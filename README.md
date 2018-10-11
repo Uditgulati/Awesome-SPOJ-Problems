@@ -11,6 +11,7 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 * [SOCOLA](http://www.spoj.com/problems/SOCOLA/) (medium-hard DP)
 * [LPIS](http://www.spoj.com/problems/LPIS/)
 * [R6PL](http://www.spoj.com/problems/R6PL/)
+* [MAXI](http://www.spoj.com/problems/MAXI/)
 
 ## Binary Search
 
@@ -72,4 +73,4 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 
 ## Miscellaneous
 
-* [IITKWPCH](www.spoj.com/problems/IITKWPCH/)
+* [IITKWPCH](http://www.spoj.com/problems/IITKWPCH/)
