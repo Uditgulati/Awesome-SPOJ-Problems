@@ -19,6 +19,7 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 * [EKO](http://www.spoj.com/problems/EKO/en/)
 * [AGGRCOW](http://www.spoj.com/problems/AGGRCOW/)
 * [METEORS](http://www.spoj.com/problems/METEORS/) (parallel binary search)
+* [MAXSET](https://www.spoj.com/problems/MAXSET/) 
 
 ## Number Theory
 
